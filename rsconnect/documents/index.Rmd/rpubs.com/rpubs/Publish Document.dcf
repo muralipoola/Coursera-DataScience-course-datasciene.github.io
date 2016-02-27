@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/156276/842e4f3c2cb246d3873a18a4dcc927aa
+url: http://rpubs.com/MuraliPoola/156276
+when: 1456565594.8175
